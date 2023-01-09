@@ -1,0 +1,23 @@
+{
+  "name": "stf",
+  "version": "1.0.0",
+  "description": "fitness website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chanchal160817/Stf.git"
+  },
+  "author": "CNMRF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chanchal160817/Stf/issues"
+  },
+  "homepage": "https://github.com/Chanchal160817/Stf#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.3"
+  }
+}
